@@ -12,7 +12,13 @@
 - 📫 How to reach me **khandelwaldhruv2003@gmail.com**
 
 - ⚡ Fun fact **I am an introvert**
-
+<h3 align="left">Open source Achievements: </h3>
+<ul>
+  <li>HACKTOBERFEST 2022</li>
+  <li>IIT KHARAGPUR WINTER OF CODE</li>
+  <li>SOCIAL WINTER OF CODE'22 MENTEE </li>
+  <li>DELTA WINTER OF CODE'22 MENTEE </li>
+ </ul> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/dhruv_khandelwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dhruv_khandelwa" height="30" width="40" /></a>

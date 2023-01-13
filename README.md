@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **khandelwaldhruv2003@gmail.com**
 
-- ⚡ Fun fact **I am an introvert**
+- ⚡ Fun fact **I am an Introvert**
 <h3 align="left">Open source Achievements: </h3>
 <ul>
   <li>HACKTOBERFEST 2022</li>

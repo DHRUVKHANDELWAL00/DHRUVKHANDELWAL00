@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/dhruv_khandelwa" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dhruv_khandelwa?logo=twitter&style=for-the-badge" alt="https://twitter.com/dhruv_khandelwa" /></a> </p>
 
-- 🌱 I’m currently learning **DSA with C++, React and Devops**
+- 🌱 I’m currently learning **DSA with C++, Web dev, React and Devops**
 
 - 📫 How to reach me **khandelwaldhruv2003@gmail.com**
 

@@ -19,7 +19,8 @@
   <li>SOCIAL WINTER OF CODE'22 MENTEE </li>
   <li>DELTA WINTER OF CODE'22 MENTEE </li>
   <li> WINTER OF CODE 3.0 MENTEE </li>
-  <li> GSOC.....</li>
+  <li>SSOC....</li>
+  <li> GGSOC.....</li>
  </ul> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
